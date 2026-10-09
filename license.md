@@ -118,4 +118,4 @@ Le bouton vert dans la section Démarrage rapide.
 
 ---
 
-*noble-wolf-788 · Mis à jour 2026-10-08 · Partagé sous licence MIT*
+*noble-wolf-788 · Mis à jour 2026-10-09 · Partagé sous licence MIT*
